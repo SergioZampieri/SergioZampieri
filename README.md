@@ -41,12 +41,10 @@ I am a continuous learner, always on the lookout for opportunities to expand my 
 </div>
 
 
-  
-
-<br/>  
-
 With expertise in JavaScript, React, Redux, HTML, CSS, Express, NodeJS, SQL, and a deep understanding of SCRUM methodologies, I bring a well-rounded skill set to any project. My proficiency in these technologies allows me to deliver high-quality and efficient solutions, while my understanding of SCRUM ensures that the development process runs smoothly and efficiently. Whether working on a small task or a complex project, I am committed to delivering results that meet and exceed expectations
 
+
+## Connect with me
 Feel free to reach out to me at gersio.zampieri@gmail.com if you have any questions or just want to chat!
 
 
