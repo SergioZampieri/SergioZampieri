@@ -45,14 +45,6 @@ I am a continuous learner, always on the lookout for opportunities to expand my 
 
 </td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
   
 
 <br/>  
