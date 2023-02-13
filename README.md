@@ -15,8 +15,6 @@
 I am a continuous learner, always on the lookout for opportunities to expand my knowledge and skills. I strongly believe that collaboration is key in the tech industry and I am eager to work with like-minded individuals to tackle challenging projects and drive innovation. In my leisure time, I enjoy exploring and experimenting with new technologies and finding creative ways to apply them.
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -30,7 +28,6 @@ I am a continuous learner, always on the lookout for opportunities to expand my 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
@@ -43,7 +40,6 @@ I am a continuous learner, always on the lookout for opportunities to expand my 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
   
 
