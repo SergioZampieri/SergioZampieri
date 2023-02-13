@@ -1,10 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
+
 
 
 ### <div align="center">I'm Sergio, a software developer with a passion for creating solutions to problems and helping people with technology.🚀</div> 
+
+<div align="center">
+<img src="https://media.tenor.com/0JSNngGvy4wAAAAC/i-love-computers-it.gif" align="center" style="width: 100%" />
+</div>  
+
 
 
 ## Who am I
