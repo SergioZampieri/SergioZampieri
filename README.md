@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## About Me
-
 I'm Sergio, a software developer with a passion for creating solutions to problems and helping people with technology.
 
 I am a continuous learner, always on the lookout for opportunities to expand my knowledge and skills. I strongly believe that collaboration is key in the tech industry and I am eager to work with like-minded individuals to tackle challenging projects and drive innovation. In my leisure time, I enjoy exploring and experimenting with new technologies and finding creative ways to apply them.
