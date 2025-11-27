@@ -23,8 +23,8 @@ Currently working at **Mol Solutions**, where I've rebuilt public sites, migrate
 
 If you want to chat about tech, collaborate on a project, or just say hi, feel free to reach out:
 
-<div style="display: flex; justify-content: center; gap: 30px;">
-<a href="https://www.linkedin.com/in/sergio-zampieri" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/sergio-zampieri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SergioZampieri" target="_blank">
